@@ -2368,7 +2368,7 @@ gtk-wide-tabs = true
 # 
 # This configuration only has an effect if Ghostty was built with
 # Adwaita support.
-gtk-adwaita = true
+gtk-adwaita = false
 
 # Custom CSS files to be loaded.
 # 
