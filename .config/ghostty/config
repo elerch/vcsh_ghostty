@@ -424,6 +424,33 @@ minimum-contrast = 1
 # 
 # For definitions on the color indices and what they canonically map to,
 # [see this cheat sheet](https://www.ditig.com/256-colors-cheat-sheet).
+
+palette = 2=#5eb83c
+palette = 10=#1d9000
+
+# MLterm colors:
+# palette = 0=#49656C
+# palette = 1=#e63853
+# palette = 2=#5eb83c
+# # I don't like the yellow from FirefoxDev. Taking from Wez
+# #palette = 3=#a57706
+# palette = 3=#cdcd55
+# palette = 4=#359ddf
+# palette = 5=#d75cff
+# palette = 6=#4b73a2
+# palette = 7=#7c8fa4
+# #palette = 8=#001e27
+# palette = 8=#6D8489
+# palette = 9=#e1003f
+# palette = 10=#1d9000
+# #palette = 11=#cd9409
+# palette = 11=#ffff55
+# palette = 12=#006fc0
+# palette = 13=#a200da
+# palette = 14=#005794
+# palette = 15=#e2e2e2
+
+
 # palette = 0=#1d1f21
 # palette = 1=#cc6666
 # palette = 2=#b5bd68
