@@ -427,6 +427,12 @@ minimum-contrast = 1
 
 palette = 2=#5eb83c
 palette = 10=#1d9000
+# The original #333333 from UltraDark did not have enough contrast with pure
+# black background to properly see the path separators in my prompt, so we need
+# to lighten it up. This is boring but closer to UltraDark theme.
+# Alternatively, #6D8489 is quite nice from mlterm
+# but inconsistent.
+palette = 8=#777777
 
 # MLterm colors:
 # palette = 0=#49656C
